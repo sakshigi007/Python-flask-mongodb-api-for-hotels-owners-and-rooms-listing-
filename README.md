@@ -22,8 +22,7 @@ In this project, I have created various Flask based APIs namely:
 
 ## Dependencies Installation
 On the project root folder, run:
-> pip install Flask
-> pip install pymongo
+> pip install Flask pymongo
 
 ## Database
 I have used mongoDb database, so please connect the database using MongoDb Compass.
