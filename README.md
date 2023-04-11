@@ -26,3 +26,6 @@ On the project root folder, run:
 
 ## Database
 I have used mongoDb database, so please connect the database using MongoDb Compass.
+
+## Run app.py 
+> python app.py
