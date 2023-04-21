@@ -1,4 +1,4 @@
-# Inkredo-assessment
+# Python Flask mongodb api for hotels, rooms and owners listing
 In this project, I have created various Flask based APIs namely:
 1. Add Owner
 2. View list of Owners
